@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "This is a test"
+title:  "Static plot from week 1 :)"
 date:   2024-03-11 20:40:30 +0100
 categories: Update
 ---
 My first picture:
 ![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/week1pic.png?raw=true)
-```
+
 
