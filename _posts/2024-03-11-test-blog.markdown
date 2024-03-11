@@ -5,5 +5,5 @@ date:   2024-03-11 20:40:30 +0100
 categories: Update
 ---
 My first picture:
-![My first picture from week1](week1pic.png)
+![My first picture from week1](/assets/images/week1pic.png)
 ```
