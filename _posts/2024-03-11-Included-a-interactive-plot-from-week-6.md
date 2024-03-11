@@ -5,7 +5,7 @@ date:   2024-03-11 20:40:30 +0100
 categories: Update
 ---
 My first picture:
-{% include Week6plot.html %}
+{% include Week6Plot.html %}
 
 ```
 
