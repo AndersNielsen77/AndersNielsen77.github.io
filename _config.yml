@@ -21,8 +21,7 @@
 title: Anders Nielsen
 email: s194299@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document he
+  This sited is made in relation to the DTU course 02806 Social data analysis and visualization Spring 24 for week7
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  andersnielsen77
