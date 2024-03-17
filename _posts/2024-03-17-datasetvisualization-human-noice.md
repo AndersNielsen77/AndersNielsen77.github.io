@@ -12,10 +12,10 @@ categories: Update
 ## Introduction to the dataset
 The dataset 
 
-## Heat map from the dataset (Speceficly the Sex Offensens, No risistence category)
-The following shows the heat map from the dataset, from the Sex Offensens, No risistence. 
+## Heat map from the dataset (Speceficly the SEX OFFENSES, NON FORCIBLE category)
+The following shows the heat map from the dataset, from the SEX OFFENSES, NON FORCIBLE. 
 {% include heat_mapnew.html %}
-![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/mapweek8.jpeg?raw=true)
+![Heatmap of SEX OFFENSES, NON FORCIBLE](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/mapweek8.jpeg?raw=true)
 
 
 
@@ -27,6 +27,6 @@ From the heatmap it appears that San Fransisco General Hospital is a massive hot
 The following shows the
 {% include newSe.html class="full-width" %}
 
-The instenses of Sex Offensens, No risistence is one of the least common crimes in the dataset with a total of 45.  
+The instenses of SEX OFFENSES, NON FORCIBLE is one of the least common crimes in the dataset with a total of 45.  
 
 
