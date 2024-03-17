@@ -15,15 +15,12 @@ The dataset
 ## Heat map from the dataset (Speceficly the Sex Offensens, No risistence category)
 The following shows the heat map from the dataset, from the Sex Offensens, No risistence. 
 {% include heat_mapnew.html %}
-My first picture:
 ![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/mapweek8.jpeg?raw=true)
 
 
 
 From the heatmap it appears that San Fransisco General Hospital is a massive hotspot for Sex Offenses (see marker). This is clearly an error in the data as this shouldn't be the case. However, it may be due to sex offenses not being registered until the victims reach the hospital where it is then registered. Instead of choosing the location where the crime originally happened.
 
-
-My first picture:
 ![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/week8.png?raw=true)
 
 
