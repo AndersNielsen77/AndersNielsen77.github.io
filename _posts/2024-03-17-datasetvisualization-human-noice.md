@@ -25,7 +25,7 @@ From the heatmap it appears that San Fransisco General Hospital is a massive hot
 
 
 The following shows the
-{% include newSe.html class="full-width" %}
+{% include newSex.html class="full-width" %}
 
 The instenses of SEX OFFENSES, NON FORCIBLE is one of the least common crimes in the dataset with a total of 45.  
 
