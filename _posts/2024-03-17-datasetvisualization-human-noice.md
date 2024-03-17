@@ -23,7 +23,7 @@ My first picture:
 
 
 The following shows the
-{% include newSe.html %}
+{% include newSe.html class="full-width" %}
 
 The instenses of Sex Offensens, No risistence is one of the least common crimes in the dataset with a total of 45.  
 
