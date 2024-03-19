@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "02806 Assignment 2"
-date:   2024-03-19 21:48:30 +0100
+title:  "Plot from week 6 :)"
+date:   2024-03-11 20:40:30 +0100
 categories: Update
 ---
-
-
 # Assignment 2 for 02806 Social Data Science and Visualization
 This assignment is made by students s204606, s194299 and s185382. 
 
@@ -32,5 +30,7 @@ The following shows the
 
 
 The instenses of SEX OFFENSES, NON FORCIBLE is one of the least common crimes in the dataset with a total of 45.  
+
+
 
 
