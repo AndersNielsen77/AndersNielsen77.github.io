@@ -23,8 +23,10 @@ From the bar chart it appears that crimes related to drugs and narcotics are not
 
 The next visualization shows... 
 
-![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/week8.png?raw=true)
+test
+{% include districtsMapDrugs.html %}
 
+test
 {% include districtsMapDrugs2.html %}
 
 
