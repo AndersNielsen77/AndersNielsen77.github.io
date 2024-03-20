@@ -23,11 +23,7 @@ From the bar chart it appears that crimes related to drugs and narcotics are not
 
 The next visualization shows... 
 
-test new
-{% include districtsMapDrugs.html %}
 
-test new
-{% include districtsMapDrugs2.html %}
 
 
 The following shows the???
