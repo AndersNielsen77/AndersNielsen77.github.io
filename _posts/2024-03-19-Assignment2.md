@@ -14,7 +14,7 @@ This assignment compares the two police districts Tenderloin and Central, in nor
 ## Bar chart of the yearly number of 'DRUG/NARCOTICS' crimes in Tenderloin and Central
 The following bar chart shows the development of the drug/narcotic crimes in the two districts, where the ... 
 {% include heat_mapnew.html %}
-![Heatmap of SEX OFFENSES, NON FORCIBLE](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/mapweek8.jpeg?raw=true)
+![Heatmap of SEX OFFENSES, NON FORCIBLE](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/yearsPerDistrictsDrugs.jpeg?raw=true)
 
 
 
