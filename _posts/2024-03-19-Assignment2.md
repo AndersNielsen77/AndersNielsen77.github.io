@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plot from week 6 :)"
+title:  "Assignment 2"
 date:   2024-03-11 20:40:30 +0100
 categories: Update
 ---

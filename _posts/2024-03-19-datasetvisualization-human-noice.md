@@ -15,22 +15,11 @@ This assignment compares the two police districts Tenderloin and Central, in nor
 
 ## Bar chart of the yearly number of 'DRUG/NARCOTICS' crimes in Tenderloin and Central
 The following bar chart shows the development of the drug/narcotic crimes in the two districts, where the ... 
-{% include heat_mapnew.html %}
-![Heatmap of SEX OFFENSES, NON FORCIBLE](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/mapweek8.jpeg?raw=true)
-
-
+![Bar chart of Tenderloin and Central](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/yearsPerDistrictsDrugs.png?raw=true)
 
 From the bar chart it appears that crimes related to drugs and narcotics are noticeably higher in Tenderloin than in Central. There is a general declining trend, implying that some of the city's regulations and attempts to mitigate crime has worked, as the drug crimes in Tenderloin decrease after the parking law in 2014.  
 
 
 The next visualization shows... 
-
-![My first picture from week1](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/week8.png?raw=true)
-{% include newWeek6Plot.html class="full-width" %}
-
-The following shows the
-
-
-The instenses of SEX OFFENSES, NON FORCIBLE is one of the least common crimes in the dataset with a total of 45.  
-
+![Map](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/Assignment2map.jpeg?raw=true)
 
