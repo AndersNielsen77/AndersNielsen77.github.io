@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Assignment 2"
-date:   2024-03-11 20:40:30 +0100
+layout: default
+title:  "02806 Assignment 2"
+date:   2024-03-19 21:48:30 +0100
 categories: Update
 ---
+
+
 # Assignment 2 for 02806 Social Data Science and Visualization
 This assignment is made by students s204606, s194299 and s185382. 
 
@@ -13,25 +15,14 @@ This assignment compares the two police districts Tenderloin and Central, in nor
 
 ## Bar chart of the yearly number of 'DRUG/NARCOTICS' crimes in Tenderloin and Central
 The following bar chart shows the development of the drug/narcotic crimes in the two districts, where the ... 
-{% include heat_mapnew.html %}
-![Heatmap of SEX OFFENSES, NON FORCIBLE](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/yearsPerDistrictsDrugsnew.png?raw=true)
-
-
+![Bar chart of Tenderloin and Central](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/yearsPerDistrictsDrugs.png?raw=true)
 
 From the bar chart it appears that crimes related to drugs and narcotics are noticeably higher in Tenderloin than in Central. There is a general declining trend, implying that some of the city's regulations and attempts to mitigate crime has worked, as the drug crimes in Tenderloin decrease after the parking law in 2014.  
 
 
 The next visualization shows... 
+<iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
 
-<iframe src="/heat_mapnew.html" height="500" width="700"></iframe>
-
-
-
-The following shows the???
-
-
-The instenses of SEX OFFENSES, NON FORCIBLE is one of the least common crimes in the dataset with a total of 45.  
-
-
-
+## Bar chart of the 8 most frequent words in the description of crimes across the two districts 
+{% include newWeek6Plot.html %}
 
