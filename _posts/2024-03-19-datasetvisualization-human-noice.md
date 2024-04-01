@@ -21,5 +21,5 @@ From the bar chart it appears that crimes related to drugs and narcotics are not
 
 
 The next visualization shows... 
-![Map](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/Assignment2map.jpeg?raw=true)
+<iframe src="/heat_mapnew.html" height="500" width="700"></iframe>
 
