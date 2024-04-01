@@ -24,5 +24,5 @@ The next visualization shows...
 <iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
 
 ## Bar chart of the 8 most frequent words in the description of crimes across the two districts 
-<iframe src="/frequent_words.html" height="500" width="700"></iframe>
+<iframe src="/FREQ.html" height="500" width="700"></iframe>
 
