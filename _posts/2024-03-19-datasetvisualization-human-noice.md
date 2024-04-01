@@ -15,7 +15,7 @@ This assignment compares the two police districts Tenderloin and Central, in nor
 
 ## Bar chart of the yearly number of 'DRUG/NARCOTICS' crimes in Tenderloin and Central
 The following bar chart shows the development of the drug/narcotic crimes in the two districts, where the ... 
-![Bar chart of Tenderloin and Central](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/yearsPerDistrictsDrugs.png?raw=true)
+![Bar chart of Tenderloin and Central](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/newplotnewnewnew.png?raw=true)
 
 From the bar chart it appears that crimes related to drugs and narcotics are noticeably higher in Tenderloin than in Central. There is a general declining trend, implying that some of the city's regulations and attempts to mitigate crime has worked, as the drug crimes in Tenderloin decrease after the parking law in 2014.  
 
@@ -24,5 +24,5 @@ The next visualization shows...
 <iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
 
 ## Bar chart of the 8 most frequent words in the description of crimes across the two districts 
-{% include newWeek6Plot.html %}
+{% include FREQ.html %}
 
