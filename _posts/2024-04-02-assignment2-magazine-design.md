@@ -57,8 +57,7 @@ classes: wide
     </div>
     <div class="column">
         <iframe src="/FREQ2.html" width="500" height="500"></iframe>
-        <br>
-        <br>
+        <br/>
         <h2>Summary</h2>
         <p>This assignment analyzes crime data from two police districts, Tenderloin and Central, in northeastern San Francisco, focusing on the 'DRUG/NARCOTIC' category. Despite Tenderloin's smaller size, it exhibits significantly higher drug-related crime rates than Central. </p>
         <p>The first bar chart illustrates the yearly trends of drug/narcotic crimes, indicating higher incidents in Tenderloin. A decline post-2014 suggests effectiveness of city regulations, contrasting with Central's inconsistent trends.</p>
