@@ -37,7 +37,6 @@ classes: wide
 
 # Assignment 2 for 02806 Social Data Analysis and Visualization
 This assignment is made by students s204606, s194299 and s185382. 
-{% include FREQ.html %}
 <div class="container">
     <div class="column">
         <h2>Introduction to the assignment</h2>
