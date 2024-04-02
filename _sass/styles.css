@@ -1,0 +1,16 @@
+/* custom-styles.css */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.assignment-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9; /* Light grey background */
+    border: 1px solid #ddd; /* Slight border */
+    border-radius: 5px;
+}
+
+/* Add additional styling as needed */

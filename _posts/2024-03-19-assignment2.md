@@ -5,8 +5,6 @@ date:   2024-03-19 21:48:30 +0100
 categories: Update
 ---
 
-<link rel="stylesheet" type="text/css" href="path/to/your/css/file.css">
-
 
 # Assignment 2 for 02806 Social Data Analysis and Visualization
 This assignment is made by students s204606, s194299 and s185382. 
