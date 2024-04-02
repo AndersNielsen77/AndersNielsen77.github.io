@@ -1,27 +1,19 @@
-/* custom-styles.css */
-body {
-    font-family: Arial, sans-serif;
-}
-
-.container {
+.row {
     display: flex;
     justify-content: space-between;
     margin: 20px;
-}
-
-.column {
+  }
+  
+  .column {
     flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
     margin: 0 10px;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
+  }
+  
+  @media (max-width: 768px) {
+    .row {
+      flex-direction: column;
     }
-    .column {
-        margin: 10px 0;
-    }
-}
+  }
+  
