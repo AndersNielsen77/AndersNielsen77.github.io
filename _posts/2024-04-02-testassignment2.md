@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  "02806 Assignment 2"
 date:   2024-03-19 21:48:30 +0100
 categories: Update
@@ -79,3 +79,5 @@ This assignment is made by students s204606, s194299 and s185382.
         </ul>
     </div>
 </div>
+
+{% include FREQ.html %}
