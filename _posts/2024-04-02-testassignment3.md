@@ -43,9 +43,11 @@ classes: wide
         <h2>Map plot of the incidents of drug/narcotics crimes</h2>
         <p>The next visualization shows the coordinates for incidents of drug use, where higher concentrations of incidents are represented by a red color. The visualization shows the change in locations for drug use from 2007 to 2017. As seen on the map above, Tenderloin district is quite consistently very concentrated with drug crimes, meaning that drug use has been reported in high volumes. When zooming in on the district, it is clear that there are no particular areas where drug use is more frequent, but all streets have dots representing places of drugs or narcotics crimes. This does not vary over the years. For the central district, the narcotics crimes are more spread out, with the streets closer to Tenderloin showing higher concentrations of crimes. There is also an area where Broadway crosses Columbus Avenue where drug crimes are more frequent, which is consistent for the whole time period. There are some bars in the area which might explain the crimes, but the more likely explanation is both these streets are quite large, and therefore probably more frequented by police, increasing the risk of being arrested. There are slight variations for the different years when looking at the concentration of drug crimes for the Central district, but nothing major.</p>
         <h2>Summary</h2>
-        <p>This assignment analyzes crime data from two police districts, Tenderloin and Central, in northeastern San Francisco, focusing on the 'DRUG/NARCOTIC' category. Despite Tenderloin's smaller size, it exhibits significantly higher drug-related crime rates than Central. 
+        <p>This assignment analyzes crime data from two police districts, Tenderloin and Central, in northeastern San Francisco, focusing on the 'DRUG/NARCOTIC' category. Despite Tenderloin's smaller size, it exhibits significantly higher drug-related crime rates than Central. </p>
         <p>The first bar chart illustrates the yearly trends of drug/narcotic crimes, indicating higher incidents in Tenderloin. A decline post-2014 suggests effectiveness of city regulations, contrasting with Central's inconsistent trends.</p>
         <p>The map visualization depicts spatial distribution of drug crimes from 2007 to 2017. Tenderloin consistently shows concentrated drug-related incidents, whereas Central's incidents are more dispersed, with notable concentrations near Tenderloin's border, and close to a large street.</p>
+        <p>Another bar chart highlights the most frequent words in crime descriptions from both districts. 'Cocaine' and 'rock' are predominant in Tenderloin, while Central exhibits higher occurrences of 'narcotics,' 'paraphernalia,' 'amphetamine,' and 'marijuana.' Considering Tenderloin's higher overall drug-related crimes, these word frequencies offer insights into prevalent drug types but do not necessarily indicate higher concentration compared to Central.</p>
+        <p>All in all, there are large differces between drug related crimes in Tenderloin and Central district, both in terms of frequency, trends and types of drugs. These differences can be explained by historical and political factors, and hopefully, the efforts to mitigate crime will continue to lessen the drug use in both districts.</p>
     </div>
     <div class="column">
         <iframe src="/Newnewnewdrugsmap.html" height="500" width="600"></iframe>
@@ -59,6 +61,20 @@ classes: wide
         <h2>Bar chart of the 8 most frequent words in the description of crimes across the two districts </h2>
         <p> The interactive Bokeh graph below presents the eight most frequently used words in the descriptions of drug/narcotic incidents recorded in the Tenderloin and Central districts. These words were identified by averaging the TF-IDF scores [4] from both districts. The TF-IDF algorithm was applied to the combined text from the incident descriptions in the Tenderloin and Central districts [3].</p>
         <p>The graph indicates that 'cocaine' and 'rock' are used more frequently in the Tenderloin district descriptions, significantly more so than in the Central district. Conversely, the Central district exhibits higher frequencies of the words 'narcotics,' 'paraphernalia,' 'amphetamine,' and 'marijuana' compared to the Tenderloin. When taking into account that general drug-related crime counts are much higher in the Tenderloin compared to Central, the frequency of certain words used in crime reports does not necessarily indicate that Central has higher concentrations of those crimes. This factor should be considered when interpreting the data from the Bokeh graph. It's also reflected in the heatmap provided above, which visualizes the intensity of drug-related incidents geographically. The word data can however be used to get an indication of which type of drug crime is most apparent in a given district.</p>
+        <h3>Sources</h3>
+        <ol>
+        <li><a href="https://www.foundsf.org/index.php?title=The_Tenderloin">"The Tenderloin"</a>, FoundSF, accessed on 1 April 2024</li>
+        <li><a href="https://en.wikipedia.org/wiki/Nob_Hill,_San_Francisco">"Nob Hill, San Francisco"</a>, Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 27 June 2024</li>
+        <li><a href="https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco">"Tenderloin, San Francisco"</a>, Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 13 March 2024</li>
+        <li><a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf">"tf-idf"</a>, Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 17 March 2024</li>
+        </ol>
+        <h3>Contributions</h3>
+        <p><strong>The group has worked together on all parts of the assignment. The following list shows the main contributor of each part of the assignment:</strong></p>
+        <ul>
+        <li><strong>s204606 - Liv</strong><br>Bar chart Introduction and Summary</li>
+        <li><strong>s194299 - Anders</strong><br>Heat map</li>
+        <li><strong>s185382 - Magnus</strong><br>Bokeh plot</li>
+        </ul>
     </div>
 </div>
 
