@@ -11,7 +11,7 @@ classes: wide
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Create three columns */
     grid-gap: 20px;
-    max-width: 1200px; /* Adjust the width as needed */
+    max-width: 40000px; /* Adjust the width as needed */
   }
 
   .column {
