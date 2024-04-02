@@ -9,11 +9,8 @@ classes: wide
 <style>
   .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Create three columns */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 20px;
-    margin: 0 auto;
-    max-width: 1200px; /* Adjust the width as needed */
-    padding: 0 20px;
   }
 
   .column {
@@ -21,22 +18,19 @@ classes: wide
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column; /* Makes the column content stack vertically */
   }
 
-  .column h2, .column h3 {
+  .column h2 {
     margin-top: 0;
   }
 
-  .column p, .column ol, .column ul {
-    margin-bottom: 1em; /* Add space between paragraphs and lists */
-    flex-grow: 1; /* Allows the paragraph and lists to fill the space */
+  .column p {
+    margin-bottom: 0;
   }
 
   .column-image {
-    width: 100%;
-    border-radius: 5px;
+    width: 100%; /* Adjust the width of the image to fill its container */
+    border-radius: 5px; /* Optional: Add rounded corners to the image */
   }
 </style>
 
