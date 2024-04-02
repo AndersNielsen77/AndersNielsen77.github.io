@@ -50,10 +50,10 @@ classes: wide
         <p>All in all, there are large differces between drug related crimes in Tenderloin and Central district, both in terms of frequency, trends and types of drugs. These differences can be explained by historical and political factors, and hopefully, the efforts to mitigate crime will continue to lessen the drug use in both districts.</p>
     </div>
     <div class="column">
-        <iframe src="/Newnewnewdrugsmap.html" height="500" width="600"></iframe>
+        <iframe src="/Newnewnewdrugsmap.html" height="500" width="500"></iframe>
         <br />
         <img src="https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/output1234.png?raw=true" alt="Bar chart of Tenderloin and Central" height="500" width="500">
-        <iframe src="/_includes/FREQ.html" width="600" height="400"></iframe>
+        <iframe src="/_includes/FREQ.html" width="500" height="500"></iframe>
     </div>
     <div class="column">
         <h2>Bar chart of the yearly number of 'DRUG/NARCOTICS' crimes in Tenderloin and Central</h2>
