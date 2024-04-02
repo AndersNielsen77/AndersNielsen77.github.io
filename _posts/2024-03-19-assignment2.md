@@ -17,9 +17,9 @@ This assignment compares the two police districts Tenderloin and Central, in nor
 The following bar chart shows the development of the drug/narcotic crimes in the two districts, where the number of incidents are not normalized, but shown as real numbers to convey the difference between the chosen districts. 
 ![Bar chart of Tenderloin and Central](https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/newplotnewnewnew.png?raw=true)
 
-From the bar chart it appears that crimes related to drugs and narcotics are noticeably higher in Tenderloin than in Central. There is a general declining trend after this peak, which seems to further decrease after 2014. According to Wikipedia, drug crimes in Tenderloin have escalated since 2007, and parking in both sides of streets in the district was banned in early 2014 in an attempt to curb some of the narcotics crimes (cite). The decrease timplies hat some of the city's regulations and attempts to mitigate crime has worked, as the drug crimes in Tenderloin decrease after the law concerning parking in 2014. The peaks and decline in drug use in the Central district, however, does not match the trends seen for Tenderloin. Instead, drug use in Central peaks both in 2008 and 2014, demonstrating the difference in drug use between the two districts.  
+From the bar chart it appears that crimes related to drugs and narcotics are noticeably higher in Tenderloin than in Central. There is a general declining trend after this peak, which seems to further decrease after 2014. According to Wikipedia, drug crimes in Tenderloin have escalated since 2007, and parking in both sides of streets in the district was banned in early 2014 in an attempt to curb some of the narcotics crimes [1]. The decrease timplies hat some of the city's regulations and attempts to mitigate crime has worked, as the drug crimes in Tenderloin decrease after the law concerning parking in 2014. The peaks and decline in drug use in the Central district, however, does not match the trends seen for Tenderloin. Instead, drug use in Central peaks both in 2008 and 2014, demonstrating the difference in drug use between the two districts.  
 
-
+## Map plot of the incidents of drug/narcotics crimes
 The next visualization shows the coordinates for incidents of drug use, where higher concentrations of incidents are represented by a red color. The visualization shows the change in locations for drug use from 2007 to 2017. 
 
 <iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
@@ -29,3 +29,7 @@ As seen on the map above, Tenderloin district is quite consistently very concent
 ## Bar chart of the 8 most frequent words in the description of crimes across the two districts 
 {% include FREQ.html %}
 
+### Sources 
+
+1. "Tenderloin, San Fransisco", Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 13 March 2024, https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco
+2. 
