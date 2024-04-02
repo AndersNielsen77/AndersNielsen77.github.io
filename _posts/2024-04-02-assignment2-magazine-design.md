@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "02806 Assignment 2"
+title:  "02806 Assignment 2 Magazine Design"
 date:   2024-03-19 21:48:30 +0100
 categories: Update
 classes: wide
