@@ -1,21 +1,19 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{'/_sass/styles.css'}}">
+    <link rel="stylesheet" href="{{ '/_sass/styles.css' | relative_url }}">
 </head>
-  <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
-  </body>
+
+<body>
+    <div class="container">
+        <div class="column">{{ content | split: '## ' | first }}</div>
+        <div class="column">{{ content | split: '## ' | slice: 1, 1 | first | prepend: '## ' }}</div>
+        <div class="column">{{ content | split: '## ' | last | prepend: '## ' }}</div>
+    </div>
+</body>
+
 </html>
