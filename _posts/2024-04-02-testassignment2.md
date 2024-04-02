@@ -4,6 +4,35 @@ title:  "02806 Assignment 2"
 date:   2024-03-19 21:48:30 +0100
 categories: Update
 ---
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+
+  .column {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .column h2 {
+    margin-top: 0;
+  }
+
+  .column p {
+    margin-bottom: 0;
+  }
+
+  .column-image {
+    width: 100%; /* Adjust the width of the image to fill its container */
+    border-radius: 5px; /* Optional: Add rounded corners to the image */
+  }
+</style>
+</head>
+<body>
 
 # Assignment 2 for 02806 Social Data Analysis and Visualization
 This assignment is made by students s204606, s194299 and s185382. 
