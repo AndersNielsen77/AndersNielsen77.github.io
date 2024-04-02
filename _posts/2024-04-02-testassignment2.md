@@ -58,6 +58,7 @@ This assignment is made by students s204606, s194299 and s185382.
         <iframe src="/Newnewnewdrugsmap.html" height="500" width="600"></iframe>
         <br />
         <img src="https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/docs/assets/images/newplotnewnewnew.png?raw=true" alt="Bar chart of Tenderloin and Central" height="500" width="500">
+        <br />
         <iframe src="https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/_includes/FREQ.html" height="500" width="500"></iframe>
     </div>
     <div class="column">
