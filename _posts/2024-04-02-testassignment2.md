@@ -3,6 +3,8 @@ layout: single
 title:  "02806 Assignment 2"
 date:   2024-03-19 21:48:30 +0100
 categories: Update
+classes: wide
+
 ---
 <style>
   .container {
