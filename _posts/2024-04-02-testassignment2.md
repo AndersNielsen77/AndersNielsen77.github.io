@@ -66,7 +66,7 @@ This assignment is made by students s204606, s194299 and s185382.
         <h2>Bar chart of the 8 most frequent words in the description of crimes across the two districts </h2>
         <p> The interactive Bokeh graph below presents the eight most frequently used words in the descriptions of drug/narcotic incidents recorded in the Tenderloin and Central districts. These words were identified by averaging the TF-IDF scores [4] from both districts. The TF-IDF algorithm was applied to the combined text from the incident descriptions in the Tenderloin and Central districts [3]. </p>
         <p>The graph indicates that 'cocaine' and 'rock' are used more frequently in the Tenderloin district descriptions, significantly more so than in the Central district. Conversely, the Central district exhibits higher frequencies of the words 'narcotics,' 'paraphernalia,' 'amphetamine,' and 'marijuana' compared to the Tenderloin. When taking into account that general drug-related crime counts are much higher in the Tenderloin compared to Central, the frequency of certain words used in crime reports does not necessarily indicate that Central has higher concentrations of those crimes. This factor should be considered when interpreting the data from the Bokeh graph. It's also reflected in the heatmap provided above, which visualizes the intensity of drug-related incidents geographically. The word data can however be used to get an indication of which type of drug crime is most apparent in a given district.  </p>
-        <h3>Sources</h3>
+        <!-- <h3>Sources</h3>
         <ol>
             <li><a href="https://www.foundsf.org/index.php?title=The_Tenderloin">"The Tenderloin"</a>, FoundSF, accessed on 1 April 2024</li>
             <li><a href="https://en.wikipedia.org/wiki/Nob_Hill,_San_Francisco">"Nob Hill, San Francisco"</a>, Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 27 June 2024</li>
@@ -79,6 +79,27 @@ This assignment is made by students s204606, s194299 and s185382.
             <li><strong>s204606 - Liv</strong><br>Bar chart Introduction and Summary</li>
             <li><strong>s194299 - Anders</strong><br>Heat map</li>
             <li><strong>s185382 - Magnus</strong><br>Bokeh plot</li>
-        </ul>
+        </ul> -->
     </div>
 </div>
+
+
+
+### Sources 
+1. "The Tenderloin", FoundSF, accessed on 1 April 2024, https://www.foundsf.org/index.php?title=The_Tenderloin
+2. "Nob Hill, San Fransisco", Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 27 June 2024, https://en.wikipedia.org/wiki/Nob_Hill,_San_Francisco
+3. "Tenderloin, San Fransisco", Wikipedia, The Free Encyclopedia, Wikimedia Foundation, 13 March 2024, https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco
+4. "tf-idf", Wikiepdia, The Free Encyclopedia, Wikimedia Foundation, 17 March 2024, https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+
+### Contributions 
+**The group has worked together on all parts of the assignment. The following list shows the main contributor of each part of the assignment:** 
+
+**s204606 - Liv**  
+Bar chart Introduction and Summary 
+
+**s194299 - Anders**  
+Heat map
+
+**s185382 - Magnus**  
+Bokeh plot
