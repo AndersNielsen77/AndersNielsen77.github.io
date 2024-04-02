@@ -54,7 +54,7 @@ All in all, there are large differces between drug related crimes in Tenderloin 
 **The group has worked together on all parts of the assignment. The following list shows the main contributor of each part of the assignment:** 
 
 **s204606 - Liv**  
-Bar chart and summary 
+Bar chart Introduction and Summary 
 
 **s194299 - Anders**  
 Heat map
