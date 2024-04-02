@@ -34,11 +34,10 @@ classes: wide
   }
 </style>
 
-
-# Assignment 2 for 02806 Social Data Analysis and Visualization
-This assignment is made by students s204606, s194299 and s185382. 
 <div class="container">
     <div class="column">
+        <h2>Assignment 2 for 02806 Social Data Analysis and Visualization</h2>
+        <p>This assignment is made by students s204606, s194299 and s185382. </p>
         <h2>Introduction to the assignment</h2>
         <p>This assignment compares the two police districts Tenderloin and Central, in north eastern San Fransisco, based on the dataset SF Crime Data. The districts are specifically compared for the crime category 'DRUG/NARCOTIC', where we visualize and study the difference between these two districts in regards to the crime category over time, for weekdays, and visualize where the crimes have happened in the districts. These specific districts are compared as there is a much higher drug and general crime activity in Tenderloin than in Central, despite Tenderloin being much smaller in size, and the districs bordering each other. Historically, Tenderloin has been a very poor neighbourhood, with subsidized housing and many immigrants moving to the area [1]. In contrast, the central district includes areas like Nob Hill, North Beach and the Financial District, all wealthy areas with luxury hotels and restaurants frequently visited by tourists [2].</p>
         <p>This assignment compares the two police districts Tenderloin and Central, in north eastern San Fransisco, based on the dataset SF Crime Data. The districts are specifically compared for the crime category 'DRUG/NARCOTIC', where we visualize and study the difference between these two districts in regards to the crime category over time, for weekdays, and visualize where the crimes have happened in the districts. These specific districts are compared as there is a much higher drug and general crime activity in Tenderloin than in Central, despite Tenderloin being much smaller in size, and the districs bordering each other. Historically, Tenderloin has been a very poor neighbourhood, with subsidized housing and many immigrants moving to the area [1]. In contrast, the central district includes areas like Nob Hill, North Beach and the Financial District, all wealthy areas with luxury hotels and restaurants frequently visited by tourists [2].</p>
