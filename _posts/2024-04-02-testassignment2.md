@@ -9,8 +9,9 @@ classes: wide
 <style>
   .container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr); /* Create three columns */
     grid-gap: 20px;
+    max-width: 1200px; /* Adjust the width as needed */
   }
 
   .column {
