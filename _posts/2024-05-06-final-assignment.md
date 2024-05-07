@@ -41,7 +41,7 @@ From the graph above, it is clear that wind production is not always consistent.
 ### Import and export of energy in Sweden and Denmark
 
 % Insert import export graph
-<iframe src="/Electricity_breakdown.html" height="660" width="700"></iframe>
+<iframe src="/Electricity_breakdown.html" height="700" width="700"></iframe>
 
 
 It is clear that Denmark is more dependent on imported energy than Sweden is, and that the danish renewable energy types are more volatile than the swedish. This is probably because Swedens renewable energy production includes large amounts of hydro-energy, which is not seasonal in the same way that wind and solar energy is, which is the sole renewable energy production in Denmark. Adding nuclear energy on top of the more stable renewable energy production for Sweden, means that Sweden exports more energy than it imports. As previously stated, most of the imported energy in Denmark is from Sweden and Norway, which have mostly renewable energy sources, which makes the energy consumption in Denmark mostly renewable, despite its large amount of imported energy. Having gained an insight into the development of renewable energy is Sweden and Denmark,  a trend line is employed to estimate whether or not the RED EU goals will be reached in 2030, for both Sweden and Denmark. The trendline is created using a linear regression model. 
