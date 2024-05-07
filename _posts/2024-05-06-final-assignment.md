@@ -35,7 +35,7 @@ Comment on cultural differences, legislations etc.
 ## Plot 3 - Wind production over time (low in 2021) 
 When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
 
-<iframe src="/Electricity_breakdown.html" height="700" width="800"></iframe>
+<iframe src="/Electricity_breakdown.html" height="700" width="900"></iframe>
 
 
 ## Plot 2 - Trend lines 
