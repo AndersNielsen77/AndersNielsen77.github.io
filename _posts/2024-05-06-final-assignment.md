@@ -1,5 +1,6 @@
 ---
-layout: default
+#layout: default
+layout: single
 title:  "02806 Final Assignment"
 date:   2024-05-06 09:00:30 +0100
 categories: Update
@@ -19,7 +20,7 @@ This continuous increase of the Renewable Energy directive indicates that the ma
 To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from yearXX to yearXX. This visual tool helps in assessing the global trend towards greener energy sources.
 
 %%%%Insert Map graph!! 
-<iframe src="/renewable_production_over_time2.html" height="500" width="700"></iframe>
+<iframe src="/renewable_production_over_time2.html" height="700" width="1400"></iframe>
 
 
 
