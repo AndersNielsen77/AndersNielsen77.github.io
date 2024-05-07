@@ -11,7 +11,7 @@ categories: Update
 # Final assignment for 02806 Social Data Analysis and Visualization
 This assignment is made by students s204606, s194299 and s185382.  
 
-Link to: <a href="url">Notebook</a>
+Link to: <a href="https://github.com/AndersNielsen77/AndersNielsen77.github.io/blob/main/Notebook.ipynb">Notebook</a>
 
 
 ### Introduction to the assignemnt 
