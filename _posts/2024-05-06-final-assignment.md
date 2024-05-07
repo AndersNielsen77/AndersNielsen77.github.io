@@ -27,7 +27,9 @@ Comment on: renewabe energy production is very similar for Dk and Se, does not i
 When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This me
 Comment on cultural differences, legislations etc. 
 
-<iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
+<iframe src="/fig_denmark.html" height="500" width="700"></iframe>
+<iframe src="/fig_sweden.html" height="500" width="700"></iframe>
+
 
 ## Plot 3 - Wind production over time (low in 2021) 
 When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
