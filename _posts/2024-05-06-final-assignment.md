@@ -11,6 +11,9 @@ categories: Update
 # Final assignment for 02806 Social Data Analysis and Visualization
 This assignment is made by students s204606, s194299 and s185382.  
 
+Link to: <a href="url">Notebook</a>
+
+
 ### Introduction to the assignemnt 
 In recent years, world leaders have emphasized the critical importance of constraining global warming to 1.5°C by the close of this century. This urgency stems from the findings of the UN’s Intergovernmental Panel on Climate Change, which warns that surpassing the 1.5°C threshold could trigger significantly harsher climate change repercussions. These consequences may include more frequent and intense rainfalls, droughts and heatwaves. To achieve this goal, greenhouse gas emissions must decrease by 43% before 2030. ([1], The Paris Agreement) Many of these goals include an increase in energy production from renewable sources, since about 34% of all grenhouse gasses emitted in 2019 was from global energy production. ([2], EPA) Since then, EU has set the goal of being carbon neutral in 2050, and EU countries have followed with local goals and directives. For instance Sweden has set a goal of not producing energy from fossil fuels at all in 2040, and Denmark has set the same goal, but for 2050 ([3], Energimyndigheten),([4], Norlys). This comparative analysis will therefore deep dive into the energy production of Denmark and Sweden, to explore whether or not they are on track to reach these goals. This analysis uses the dataset ‘Global Electricity Production’ ([5], Kaggle) , which includes daily data about energy production for 48 different countries, including the mode of production (solar, nuclear, wind etc), as well as imported and exported energy in GWh.  
 
