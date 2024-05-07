@@ -16,7 +16,7 @@ In recent years, world leaders have emphasized the critical importance of constr
 
 
 ### Global energy production over time 
-To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from year 2010 to year 2021. This visual tool helps in assessing the global trend towards greener energy sources.
+To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from year 2010 to year 2021. This interactive visual tool helps in assessing the global trend towards greener energy sources. 
 
 <iframe src="/renewable_production_over_time2.html" height="500" width="720"></iframe>
 
@@ -44,7 +44,7 @@ The graph below shows the average monthly import, export and energy production f
 It is clear that Denmark is more dependent on imported energy than Sweden is, and that the danish renewable energy types are more volatile than the swedish. This is probably because Sweden's renewable energy production includes large amounts of hydro energy, which is not seasonal in the same way that wind and solar energy is, which constitutes the only renewable energy production in Denmark. Adding nuclear energy on top of the more stable renewable energy production for Sweden, means that Sweden exports more energy than it imports. As previously stated, most of the imported energy in Denmark is from Sweden and Norway, both of which have mostly renewable energy sources, which makes the energy consumption in Denmark mostly renewable, despite its large amount of imported energy. It does however seem like the renewable energy sources in Denmark is not enough on their own to support the countries consumption. Having gained an insight into the development of renewable energy in Sweden and Denmark, a trend line is employed to estimate whether or not the local goals of not using fossil fuels can be reached, for both Sweden and Denmark. The trendline is created using a linear regression model. 
 
 ### Will Sweden and Denmark reach their goals of zero fossil fuel energy production in 2040 and 2050? 
-The graph below shows a forecast of renewable energy sources made with a linear regression model. For Sweden, the forecast includes just renewable energy, and renewable energies together with nuclear energy, to assess if nuclear energy is still crucial for reaching the goal of zero fossil fuels. The graph is interactive. 
+The interactive graph below shows a forecast of renewable energy sources made with a linear regression model. For Sweden, the forecast includes just renewable energy, and renewable energies together with nuclear energy, to assess if nuclear energy is still crucial for reaching the goal of zero fossil fuels. 
 
 <iframe src="/Trendlines2.html" height="530" width="700"></iframe>
 
@@ -74,10 +74,10 @@ In conclusion, Denmark shows promising progress, but Sweden faces challenges in 
 **The group has worked together on all parts of the assignment. The following list shows the main contributor of each part of the assignment:** 
 
 **s204606 - Liv**  
-Bar chart Introduction and Summary 
+Introduction, summary and annual renewables plot 
 
 **s194299 - Anders**  
-Heat map
+Map plot, import and export graph 
 
 **s185382 - Magnus**  
-Bokeh plot
+Normalized monthly wind production plot, trend line plot 
