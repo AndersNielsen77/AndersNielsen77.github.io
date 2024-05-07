@@ -34,7 +34,7 @@ The below graph shows the production of wind energy in 2021, which was a year of
 
 <iframe src="/wind.html" height="530" width="720"></iframe>
 
-From the graph above, it is clear that wind production is not always consistent. In months with an excess of wind, energy is exported to nearby countries, and in times of low wind energy production, other types of energy are used (which are non renewable), or energy is imported from nearby countries (primarily from Norway and Sweden) ([4], Norlys). This raises the question if the wind and solar production is robust enough for Denmark to become free of fossil fuels, or if they will need to keep importing energy to sustain themselves. To gain an inderstading of the energy import and export for the two countries, this is plotted in the graph below.  
+From the graph above, it is clear that wind production is not always consistent. In months with an excess of wind, energy is exported to nearby countries, and in times of low wind energy production, other types of energy are used (which are non renewable), or energy is imported from nearby countries (primarily from Norway and Sweden) ([4], Norlys). This raises the question if the wind and solar production is robust enough for Denmark to become free of fossil fuels, or if they will need to keep importing energy to sustain themselves. To gain an understading of the energy import and export for the two countries, this is plotted in the graph below.  
 
 ### Import and export of energy in Sweden and Denmark
 The graph below shows the average monthly import, export and energy production for Sweden and Denmark respectively. 
