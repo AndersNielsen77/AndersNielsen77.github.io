@@ -50,7 +50,7 @@ It is clear that Denmark is more dependent on imported energy than Sweden is, an
 ### Will we reach the RED EU target in Sweden and Denmark?
 Will we reach the EU target in 2050? 
 
-<iframe src="/Trendlines.html" height="530" width="700"></iframe>
+<iframe src="/Trendlines2.html" height="530" width="700"></iframe>
 
 
 Discussion - will need to think about 
