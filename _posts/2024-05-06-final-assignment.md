@@ -33,7 +33,7 @@ When looking into the different types of energy, Sweden and Denmark does display
 ### Wind energy production in Denmark over time 
 When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
 
-<iframe src="/Electricity_breakdown.html" height="530" width="720"></iframe>
+<iframe src="/wind.html" height="530" width="720"></iframe>
 
 From the graph above, it is clear that wind production is not always consistent. In months with an excess of wind, energy is exported to nearby countries, and in times of low wind energy production, other types of energy are used (which are non renewable), or energy is imported from nearby countries (primarily from Norway and Sweden) (CITE). https://norlys.dk/inspiration/energi/hvor-meget-af-danmarks-energi-er-vedvarende/ This begs the question if the wind and solar production even matters, if fossil fuels and non renewable energy is being imported when there is no sunshine and wind? This of course depends on what percentage of the danish and swedish energy consumption is actually imported, which the graph below shows. 
 
