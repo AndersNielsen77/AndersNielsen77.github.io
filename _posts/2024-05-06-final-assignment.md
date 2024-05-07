@@ -19,10 +19,7 @@ This continuous increase of the Renewable Energy directive indicates that the ma
 ## Intro Plot - Map of energy production over time 
 To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from yearXX to yearXX. This visual tool helps in assessing the global trend towards greener energy sources.
 
-%%%%Insert Map graph!! 
-<iframe src="/renewable_production_over_time2.html" height="700" width="1400"></iframe>
-
-
+<iframe src="/renewable_production_over_time2.html" height="500" width="700"></iframe>
 
 Comment on: renewabe energy production is very similar for Dk and Se, does not include nuclear power. 
 
