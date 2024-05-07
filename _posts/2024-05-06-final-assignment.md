@@ -3,6 +3,7 @@ layout: default
 title:  "02806 Final Assignment"
 date:   2024-05-06 09:00:30 +0100
 categories: Update
+classes: wide
 ---
 
 
