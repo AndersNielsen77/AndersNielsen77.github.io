@@ -22,7 +22,7 @@ To gain an initial insight into the production of energy worldwide, a map is con
 Comment on: renewabe energy production is very similar for Dk and Se, does not include nuclear power. 
 
 ## Plot 5 - different energy types % of production over time 
-When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. 
+When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This me
 Comment on cultural differences, legislations etc. 
 
 <iframe src="/Newnewnewdrugsmap.html" height="500" width="700"></iframe>
