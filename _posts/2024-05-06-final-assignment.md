@@ -30,7 +30,7 @@ Generally, the global trend is that each country produces a higher percentage of
 When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This means that the energy produced by nuclear power does not count towards the RED goal the EU has set. However, nuclear energy emits negligeable amounts of CO_2, making it a green and clean source of energy (CITE). Furthermore, energy policy expert Suriya Jayanti argues that climate change cannot be stopped without the help of nuclear power, in an article in Time Magazine (CITE). Therefore, exploring the significance of nuclear power in Sweden and Denmark is also relevant when looking at energy production and its contribution to climate change. The upside in using nuclear power, is that many renewable energy sources are dependent on weather, such as solar energy and wind energy, which is the only two renewable energy sources produced in Denmark. We will now look closer at the how the renewable energy production varies throughout the year. 
 
 
-### Wind energy production in Denmakr over time 
+### Wind energy production in Denmark over time 
 When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
 
 <iframe src="/Electricity_breakdown.html" height="530" width="720"></iframe>
