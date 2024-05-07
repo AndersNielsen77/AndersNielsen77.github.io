@@ -16,12 +16,13 @@ As part of the Renewable Energy Directive in 2009, the European Union set a targ
 This continuous increase of the Renewable Energy directive indicates that the matter of global warming is more pressing than previously thought. This begs the question if the EU-targets have been effective in changing member countries’ energy production, and if the countries are in fact on track to reach the targets by 2030. This comparative analysis will therefore deep dive into the energy production of Denmark and Sweden, using the dataset ‘Global Electricity Production’ as the basis for analysis. This dataset includes daily data about energy production for 48 different countries, including the mode of production (solar, nuclear, wind etc), as well as imported and exported energy in GWh.  
 
 
-## Intro Plot - Map of energy production over time 
-To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from yearXX to yearXX. This visual tool helps in assessing the global trend towards greener energy sources.
+### Global energy production over time 
+To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from year 2010 to year 2021. This visual tool helps in assessing the global trend towards greener energy sources.
 
 <iframe src="/renewable_production_over_time2.html" height="500" width="700"></iframe>
 
-Comment on: renewabe energy production is very similar for Dk and Se, does not include nuclear power. 
+Generally, the global trend is that each country produces a higher percentage of renewable energy. Worth noting is that some countries do not have data prior to 2014, which is why China for example is only visible after this. 
+renewabe energy production is very similar for Dk and Se, does not include nuclear power. 
 
 ## Plot 5 - different energy types % of production over time 
 When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This me
