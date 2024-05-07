@@ -12,8 +12,7 @@ categories: Update
 This assignment is made by students s204606, s194299 and s185382.  
 
 ### Introduction to the assignemnt 
-As part of the Renewable Energy Directive in 2009, the European Union set a target that the pooled energy consumption in the EU should include 20% renewable energy by 2020. In 2018, this goal was revised to 32% by 2030, and again in 2023 to at least 42.5% at EU level by 2030. [1]
-This continuous increase of the Renewable Energy directive indicates that the matter of global warming is more pressing than previously thought. This begs the question if the EU-targets have been effective in changing member countries’ energy production, and if the countries are in fact on track to reach the targets by 2030. This comparative analysis will therefore deep dive into the energy production of Denmark and Sweden, using the dataset ‘Global Electricity Production’ as the basis for analysis. This dataset includes daily data about energy production for 48 different countries, including the mode of production (solar, nuclear, wind etc), as well as imported and exported energy in GWh.  
+In recent years, world leaders have emphasized the critical importance of constraining global warming to 1.5°C by the close of this century. This urgency stems from the findings of the UN’s Intergovernmental Panel on Climate Change, which warns that surpassing the 1.5°C threshold could trigger significantly harsher climate change repercussions. These consequences may include more frequent and intense rainfalls, droughts and heatwaves. To achieve this goal, greenhouse gas emissions must decrease by 43% before 2030. ([1], The Paris Agreement) Many of these goals include an increase in energy production from renewable sources, since about 34\% of all grenhouse gasses emitted in 2019 was from global energy production. ([2], EPA) Since then, EU has set the goal of being carbon neutral in 2050, and EU countries have followed with local goals and directives. For instance Sweden has set a goal of not producing energy from fossil fuels at all in 2040, and Denmark has set the same goal, but for 2050 ([3], Energimyndigheten),([4], Norlys). This comparative analysis will therefore deep dive into the energy production of Denmark and Sweden, to explore whether or not they are on track to reach these goals. This analysis uses the dataset ‘Global Electricity Production’ ([5], Kaggle) , which includes daily data about energy production for 48 different countries, including the mode of production (solar, nuclear, wind etc), as well as imported and exported energy in GWh.  
 
 
 ### Global energy production over time 
@@ -21,48 +20,53 @@ To gain an initial insight into the production of energy worldwide, a map is con
 
 <iframe src="/renewable_production_over_time2.html" height="500" width="720"></iframe>
 
-Generally, the global trend is that each country produces a higher percentage of renewable energy. Worth noting is that some countries do not have data prior to 2014, which is why China for example is only visible after this. Overall, there is a positive trend for the European countries, which is promising for reaching EU's RED. For Iceland and Norway, a high percentage og their produced energy is already renewable, and so their development is not very noticeable. For Denmark and Sweden, however, the increase in percentage of renewable energy is quite similar, and it seems that the evolution of renewable energy in the two countries follow each other closely. The different modes of energy production of Sweden and Denmark will now be invetigated in more detail.
+Generally, the global trend is that each country produces a higher percentage of renewable energy. Worth noting is that some countries do not have data prior to 2014, which is why China for example is only visible after this. Overall, European countries show a positive trend towards higher percentages of renewable energy production, supporting the goal of reducing greenhouse gas emissions. Iceland and Norway already have a substantial portion of renewable energy in their production, thus their progress may not be as noticeable. Conversely, Denmark and Sweden show similar increases in the percentage of renewable energy, suggesting parallel developments in these two countries. A closer examination of the renewable energy production methods in Sweden and Denmark will be conducted to better understand their respective strategies.
 
 ### Production of different energy types over time
+The graph below shows the total production of renewable energy for the respective countries. The graph is interactive, so the visualisation can be filtered based on the type of energy production. 
 
 <iframe src="/combined_figure.html" height="500" width="720"></iframe>
 
-When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This means that the energy produced by nuclear power does not count towards the RED goal the EU has set. However, nuclear energy emits negligeable amounts of CO_2, making it a green and clean source of energy (CITE). Furthermore, energy policy expert Suriya Jayanti argues that climate change cannot be stopped without the help of nuclear power, in an article in Time Magazine (CITE). Therefore, exploring the significance of nuclear power in Sweden and Denmark is also relevant when looking at energy production and its contribution to climate change. The upside in using nuclear power, is that many renewable energy sources are dependent on weather, such as solar energy and wind energy, which is the only two renewable energy sources produced in Denmark. We will now look closer at the how the renewable energy production varies throughout the year. 
-
+When looking into the different modes of energy production, Sweden and Denmark does display a significant difference. Sweden has a lot of hydropower and wind energy, while Denmark almost solely relies on wind energy and a bit of solar energy. Sweden also produces large amounts of nuclear power, which Denmark does not, due to danish a law forbidding it in 1985 ([7], Danmarkshistorien). Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. Nuclear power is however not a fossil fuel, and still counts towards the goal of limiting CO2-emissions, even though it is a controversial type of energy production ([6], National Grid). Therefore, exploring the significance of nuclear power in Sweden and Denmark is also relevant when looking at energy production and its contribution to climate change. The upside of using nuclear power, is that many renewable energy sources are dependent on weather, such as solar energy and wind energy, which is the only two renewable energy sources produced in Denmark. We will now look closer at the how the renewable energy production varies throughout the year. 
 
 ### Wind energy production in Denmark over time 
-When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
+The below graph shows the production of wind energy in 2021, which was a year of very little wind, compared to the average wind energy produced between 2010 and 2020. The data has been normalised so it is proporrtionate to the number of windmills and their capacity. 
 
 <iframe src="/wind.html" height="530" width="720"></iframe>
 
-From the graph above, it is clear that wind production is not always consistent. In months with an excess of wind, energy is exported to nearby countries, and in times of low wind energy production, other types of energy are used (which are non renewable), or energy is imported from nearby countries (primarily from Norway and Sweden) (CITE). https://norlys.dk/inspiration/energi/hvor-meget-af-danmarks-energi-er-vedvarende/ This begs the question if the wind and solar production even matters, if fossil fuels and non renewable energy is being imported when there is no sunshine and wind? This of course depends on what percentage of the danish and swedish energy consumption is actually imported, which the graph below shows. 
-
+From the graph above, it is clear that wind production is not always consistent. In months with an excess of wind, energy is exported to nearby countries, and in times of low wind energy production, other types of energy are used (which are non renewable), or energy is imported from nearby countries (primarily from Norway and Sweden) ([4], Norlys). This raises the question if the wind and solar production is robust enough for Denmark to become free of fossil fuels, or if they will need to keep importing energy to sustain themselves. To gain an inderstading of the energy import and export for the two countries, this is plotted in the graph below.  
 
 ### Import and export of energy in Sweden and Denmark
+The graph below shows the average monthly import, export and energy production for Sweden and Denmark respectively. 
 
-% Insert import export graph
 <iframe src="/Electricity_breakdown.html" height="530" width="700"></iframe>
 
+It is clear that Denmark is more dependent on imported energy than Sweden is, and that the danish renewable energy types are more volatile than the swedish. This is probably because Sweden's renewable energy production includes large amounts of hydro energy, which is not seasonal in the same way that wind and solar energy is, which constitutes the only renewable energy production in Denmark. Adding nuclear energy on top of the more stable renewable energy production for Sweden, means that Sweden exports more energy than it imports. As previously stated, most of the imported energy in Denmark is from Sweden and Norway, both of which have mostly renewable energy sources, which makes the energy consumption in Denmark mostly renewable, despite its large amount of imported energy. It does however seem like the renewable energy sources in Denmark is not enough on their own to support the countries consumption. Having gained an insight into the development of renewable energy in Sweden and Denmark, a trend line is employed to estimate whether or not the local goals of not using fossil fuels can be reached, for both Sweden and Denmark. The trendline is created using a linear regression model. 
 
-It is clear that Denmark is more dependent on imported energy than Sweden is, and that the danish renewable energy types are more volatile than the swedish. This is probably because Swedens renewable energy production includes large amounts of hydro-energy, which is not seasonal in the same way that wind and solar energy is, which is the sole renewable energy production in Denmark. Adding nuclear energy on top of the more stable renewable energy production for Sweden, means that Sweden exports more energy than it imports. As previously stated, most of the imported energy in Denmark is from Sweden and Norway, which have mostly renewable energy sources, which makes the energy consumption in Denmark mostly renewable, despite its large amount of imported energy. Having gained an insight into the development of renewable energy is Sweden and Denmark,  a trend line is employed to estimate whether or not the RED EU goals will be reached in 2030, for both Sweden and Denmark. The trendline is created using a linear regression model. 
-
-
-### Will we reach the RED EU target in Sweden and Denmark?
-Will we reach the EU target in 2050? 
+### Will Sweden and Denmark reach their goals of zero fossil fuel energy production in 2040 and 2050? 
+The graph below shows a forecast of renewable energy sources made with a linear regression model. For Sweden, the forecast includes just renewable energy, and renewable energies together with nuclear energy, to assess if nuclear energy is still crucial for reaching the goal of zero fossil fuels. The graph is interactive. 
 
 <iframe src="/Trendlines2.html" height="530" width="700"></iframe>
 
-
-Discussion - will need to think about 
+Based on this linear regression, Denmark will reach its goal of having 100% of its energy be from renewable sources as early as 2031, if the growth in renewable energy sources (particularly wind energy) is stable. For Sweden, the goal will not be reached if the current development is kept up, as in 2040, only 81% of its energy production will be from renewble sources. If nuclear power is included in this, it will reach only 96% of the total energy production. This looks promising, but Sweden will need to invest in renewable energy sources or more nuclear power to reach its climate goals. For Denmark, the renewable energy sources wind and solar power is not always stable and reliable, and so the country may still need to rely on Sweden and Norway, even if the growth of renewable energy production is kept up. 
 
 
 ### Summary 
+The assignment examines Denmark and Sweden's progress in transitioning to renewable energy and eliminating fossil fuel dependence. It stresses the global imperative to limit global warming to 1.5°C and highlights the role of renewable energy in achieving this. Using data from the 'Global Electricity Production' dataset, it analyses renewable energy trends in both countries, noting Sweden's reliance on hydro and nuclear power and Denmark's focus on wind and solar energy.
+
+Challenges arise from Denmark's intermittent wind energy production, leading to fluctuations in energy import and export. A comparison of energy import/export patterns between Sweden and Denmark reveals Denmark's higher dependence on imported energy.Forecasting with a linear regression model suggests Denmark could achieve 100% renewable energy by 2031, while Sweden may fall short of its target by 2040, even with nuclear power. This underscores the need for Sweden to invest more in renewables.
+
+In conclusion, Denmark shows promising progress, but Sweden faces challenges in meeting its renewable energy targets, necessitating further investment. Collaboration between the two countries could aid in a sustainable transition to renewables and mitigate climate change impacts.
 
 
 ### Sources 
-1. 'Renewable Energy Directive', _European Comission_, 3 May 2024, https://energy.ec.europa.eu/topics/renewable-energy/renewable-energy-directive-targets-and-rules/renewable-energy-directive_en
-2. ‘What is nuclear energy (and why is it considered a clean energy)?’, _National Grid_, 27 Mar 2024, https://www.nationalgrid.com/stories/energy-explained/what-nuclear-energy-and-why-it-considered-clean-energy
-
+1. 'The Paris Agreement', _United Nations (UN)_, 4 May 2024, https://unfccc.int/process-and-meetings/the-paris-agreement
+2. 'Global Greenhouse Gas Overview', _United States Environmental Protection Agency (EPA)_, 2 May 2024, https://www.epa.gov/ghgemissions/global-greenhouse-gas-overview
+3. 'Sveriges energi- och klimatmål', _Energimyndigheten_, 5 May 2024, https://www.energimyndigheten.se/klimat--miljo/sveriges-energi--och-klimatmal/
+4. 'Hvor meget af Danmarks energi er vedvarende?', _Norlys_, 6 Maj 2024, https://norlys.dk/inspiration/energi/hvor-meget-af-danmarks-energi-er-vedvarende/
+5. 'Global Electricity Production dataset', _kaggle_, 20 Mar 2024, https://www.kaggle.com/datasets/sazidthe1/global-electricity-production
+6. ‘What is nuclear energy (and why is it considered a clean energy)?’, _National Grid_, 27 Mar 2024, https://www.nationalgrid.com/stories/energy-explained/what-nuclear-energy-and-why-it-considered-clean-energy
+7. 'Atomkraft-politik i Danmark, 1973-1985', _Danmarkshistorien_, 6 May 2024, https://danmarkshistorien.dk/vis/materiale/atomkraft-politik-i-danmark-1973-1985
 
 
 ### Contributions 
