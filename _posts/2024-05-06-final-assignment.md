@@ -19,7 +19,7 @@ This continuous increase of the Renewable Energy directive indicates that the ma
 ### Global energy production over time 
 To gain an initial insight into the production of energy worldwide, a map is constructed which shows the development in energy production from year 2010 to year 2021. This visual tool helps in assessing the global trend towards greener energy sources.
 
-<iframe src="/renewable_production_over_time2.html" height="500" width="700"></iframe>
+<iframe src="/renewable_production_over_time2.html" height="500" width="800"></iframe>
 
 Generally, the global trend is that each country produces a higher percentage of renewable energy. Worth noting is that some countries do not have data prior to 2014, which is why China for example is only visible after this. 
 renewabe energy production is very similar for Dk and Se, does not include nuclear power. 
@@ -28,14 +28,14 @@ renewabe energy production is very similar for Dk and Se, does not include nucle
 When looking into the different types of energy, Sweden and Denmark does display a significant difference. Sweden has a rather large production of nuclear power, which Denmark does not. Currently, nuclear power is not classified as a renewable energy source, but rather a 'low-carbon' energy source by the EU. This me
 Comment on cultural differences, legislations etc. 
 
-<iframe src="/combined_figure.html" height="500" width="700"></iframe>
+<iframe src="/combined_figure.html" height="500" width="800"></iframe>
 
 
 
 ## Plot 3 - Wind production over time (low in 2021) 
 When is it important to have nuclear power? For example when the wind production is not very high - example in 2021. 
 
-<iframe src="/Electricity_breakdown.html" height="530" width="700"></iframe>
+<iframe src="/Electricity_breakdown.html" height="530" width="800"></iframe>
 
 
 ## Plot 2 - Trend lines 
